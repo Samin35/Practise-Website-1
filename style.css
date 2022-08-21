@@ -52,3 +52,10 @@ span {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+
+.section2 {
+    display: flex;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
