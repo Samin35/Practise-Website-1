@@ -71,6 +71,7 @@ span {
     border-radius: 12px;
     margin: 3%;
     padding: 3%;
+    border-left: 8px solid red;
 }
 
 .div4 {
@@ -79,6 +80,7 @@ span {
     box-shadow: 10px 10px 20px green;
     border-radius: 12px;
     padding: 3%;
+    border-left: 9px solid green;
 }
 
 .experience {
@@ -88,4 +90,9 @@ span {
 .sec3 {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+
+
+footer p {
+    text-align: center;
 }
