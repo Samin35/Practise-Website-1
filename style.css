@@ -59,3 +59,33 @@ span {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+.flexible-container {
+    display: flex;
+}
+
+
+.div3 {
+    width: 50%;
+    box-shadow: 10px 10px 20px red;
+    border-radius: 12px;
+    margin: 3%;
+    padding: 3%;
+}
+
+.div4 {
+    width: 50%;
+    margin: 3%;
+    box-shadow: 10px 10px 20px green;
+    border-radius: 12px;
+    padding: 3%;
+}
+
+.experience {
+    padding-left: 2%;
+}
+
+.sec3 {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
